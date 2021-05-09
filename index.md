@@ -27,9 +27,9 @@ classes: wide
 
   
   
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-registro-asociaciones-fundaciones)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-registro-asociaciones-fundaciones/issues)*   | Registro de asociaciones y fundaciones.  |  |  |  |  |   |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- |
+| Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-registro-asociaciones-fundaciones)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-registro-asociaciones-fundaciones/issues)*   | Registro de asociaciones y fundaciones.  |  
  
  
   
